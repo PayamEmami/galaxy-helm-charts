@@ -8,7 +8,7 @@ entries:
     urls:
     - https://payamemami.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.7.tgz
     version: 0.1.7
- - created: 2017-03-21T13:16:38.371711242Z
+  - created: 2017-03-21T13:16:38.371711242Z
     description: Galaxy with Postgres deployment
     digest: ec8f3500564dbbcd7a0d224d3d756ee6ca5f10e29f547e65c2f7b21e3547f81f
     name: galaxy-postgres-chart
@@ -128,8 +128,8 @@ entries:
     name: galaxy-simple
     urls:
     - https://payamemami.github.io/galaxy-helm-charts/galaxy-simple-0.1.0.tgz
-version: 0.1.0
-postgres:
+    version: 0.1.0
+  postgres:
   - created: 2017-03-21T13:16:38.383028878Z
     description: A Helm chart for Kubernetes
     digest: b1f5cb5e8273f88fe9e6fe8f30c9692187ed6bc94470980d2742edab5b9d7720
