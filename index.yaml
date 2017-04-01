@@ -8,4 +8,12 @@ entries:
     urls:
     - https://payamemami.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.7.tgz
 version: 0.1.7
+postgres:
+  - created: 2017-03-21T13:16:38.383028878Z
+    description: A Helm chart for Kubernetes
+    digest: b1f5cb5e8273f88fe9e6fe8f30c9692187ed6bc94470980d2742edab5b9d7720
+    name: postgres
+    urls:
+    - https://payamemami.github.io/galaxy-helm-charts/postgres-0.1.0.tgz
+    version: 0.1.0
 generated: 2017-03-21T13:16:38.361900599Z
