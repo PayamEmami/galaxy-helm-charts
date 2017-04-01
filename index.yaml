@@ -6,6 +6,6 @@ entries:
     digest: 26f649997316991a734eb486eec56943b992be6d5b1972663df30e4f47eb4573
     name: galaxy-postgres-chart
     urls:
-    - https://pcm32.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.7.tgz
+    - https://payamemami.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.7.tgz
 version: 0.1.7
 generated: 2017-03-21T13:16:38.361900599Z
