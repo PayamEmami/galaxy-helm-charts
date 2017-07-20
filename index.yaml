@@ -80,12 +80,12 @@ entries:
     urls:
     - https://payamemami.github.io/galaxy-helm-charts/galaxy-postgres-chart-0.1.0.tgz
     version: 0.1.0
-  galaxy-simple:
+  galaxy-simple2:
   - apiVersion: v1
     created: 2017-03-21T13:16:38.382470183Z
     description: Simple Galaxy deployment
     digest: 30af81a6119064bc1ba002b2bba8fb7c21d8abf4deb80f3fde6b9b310334c635
-    name: galaxy-simple
+    name: galaxy-simple2
     urls:
     - https://payamemami.github.io/galaxy-helm-charts/galaxy-simple-0.1.6.tgz
     version: 0.1.6
